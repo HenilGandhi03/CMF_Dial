@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_description">Controls scrolling and buttons in the currently visible app using CMF dial/media input.</string>
+    <string name="app_name">CMF Dial Controller</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:colorAccent">#333333</item>
+    </style>
+</resources>
